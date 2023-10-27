@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Swithord&theme=shadow-green)](https://git.io/streak-stats)
+I'm a second-year student studying Computer Science and Economics at the University of Toronto. I'm interested in aviation, astronomy and cats.
 
 <!--
 **Swithord/Swithord** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
