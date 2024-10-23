@@ -1,5 +1,9 @@
 ### Hi there 👋
-I'm a second-year student studying Computer Science and Economics at the University of Toronto. I'm interested in aviation, astronomy and cats.
+I'm a third-year student studying Computer Science and Economics at the University of Toronto. I'm interested in aviation, astronomy, coffee, classical music and cats.
+
+### Where to reach me
+- 📨 york.ng@mail.utoronto.ca
+- 👤 [LinkedIn](https://www.linkedin.com/in/york-hay-ng/)
 
 <!--
 **Swithord/Swithord** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
