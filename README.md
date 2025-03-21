@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm a third-year student studying Computer Science and Economics at the University of Toronto. I'm interested in aviation, astronomy, coffee, classical music and cats.
+I'm a third-year student studying Computer Science (minoring in Economics) at the University of Toronto. I'm interested in aviation, astronomy, coffee, classical music and cats.
 
 ### Where to reach me
 - 📨 york.ng@mail.utoronto.ca
