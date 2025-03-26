@@ -1,6 +1,10 @@
 ### Hi there 👋
 I'm a third-year student studying Computer Science (minoring in Economics) at the University of Toronto. I'm interested in aviation, astronomy, coffee, classical music and cats.
 
+Currently improving language data usability @ Lee Language Lab.
+
+Check out my [website](https://yorkng.com)!
+
 ### Where to reach me
 - 📨 york.ng@mail.utoronto.ca
 - 👤 [LinkedIn](https://www.linkedin.com/in/york-hay-ng/)
