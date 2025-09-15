@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm a third-year undergraduate studying Computer Science at the University of Toronto. I'm interested in aviation, astronomy, coffee, classical music and cats.
+I'm a fourth-year undergraduate studying Computer Science at the University of Toronto. I'm interested in aviation, astronomy, coffee, classical music and cats.
 
 Currently researching transfer learning @ Lee Language Lab.
 
